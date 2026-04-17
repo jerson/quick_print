@@ -18,7 +18,6 @@ dependencies:
   esc_pos_utils_plus: ^2.0.4
   flutter:
     sdk: flutter
-  flutter_pos_printer_platform_image_3_sdt: ^1.2.25
   pdf: ^3.11.3
   pdfx: ^2.9.0
   printing: ^5.14.2
@@ -26,7 +25,7 @@ dependencies:
   win_ble: ^1.1.1
   image: ^4.5.4
   path_provider: ^2.1.5
-  universal_ble: ^1.1.0
+  
 dev_dependencies:
   flutter_lints: ^5.0.0
   flutter_test:
