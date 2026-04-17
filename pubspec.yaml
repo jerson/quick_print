@@ -26,14 +26,13 @@ dependencies:
   win_ble: ^1.1.1
   image: ^4.5.4
   path_provider: ^2.1.5
+  universal_ble: ^1.1.0
 dev_dependencies:
   flutter_lints: ^5.0.0
   flutter_test:
     sdk: flutter
   test: ^1.24.0
 
-dependency_overrides: 
-  universal_ble: ^1.1.0
   
 # Platform support
 platforms:
