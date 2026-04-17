@@ -19,6 +19,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_pos_printer_platform_image_3_sdt: ^1.2.25
+  universal_ble: ^1.1.0
   pdf: ^3.11.3
   pdfx: ^2.9.0
   printing: ^5.14.2
